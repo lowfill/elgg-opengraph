@@ -1,0 +1,15 @@
+{
+    "name": "mapkyca/elgg-opengraph",
+    "description": "Provides generic and object specific Open Graph headers.",
+    "type": "elgg-plugin",
+    "require": {
+        "composer/installers": ">=1.0.8"
+    },
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Marcus Povey",
+            "email": "marcus@marcus-povey.co.uk"
+        }
+    ]
+}
